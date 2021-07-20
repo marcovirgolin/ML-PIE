@@ -1,0 +1,16 @@
+{
+    "id": "84",
+    "logtime": "1615127998.639",
+    "feedback": [
+        {
+            "label": "1",
+            "misprediction": "0",
+            "prefnot_repr1": "-,-,x12,max,-,x5,-,x12,-,-,x5,x10,+,x12,x9,log,*,x1,\/,-4.75,3.5,x3",
+            "predicted_interpr1": "-1.387",
+            "uncert_interpr1": "0.711",
+            "prefnot_repr2": "-,-,x12,-,-,x5,-,x12,-,-,x8,x10,+,x12,x9,max,+,4.75,*,x5,x9,x7,x5",
+            "predicted_interpr2": "-1.17",
+            "uncert_interpr2": "0.536"
+        }
+    ]
+}
